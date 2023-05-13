@@ -4,7 +4,10 @@ import "./sidebar.css"
 const Sidebar = () => {
     return (
         <div>
-            <h2>Sidebar</h2>
+            <h2>Sider</h2>
+            <h2>Sider</h2>
+            <h2>Sider</h2>
+            <h2>Sider</h2>
         </div>
     );
 };
